@@ -3739,3 +3739,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.18-01.53.01:998][333]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMapC948C5724A6929FB73472ABB00D4032E.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
 [2019.10.18-01.53.02:051][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
 [2019.10.18-01.53.02:082][333]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData402A2C9142DB6F97F664A09A9EAFC3C2.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
+[2019.10.18-01.56.34:846][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-01.56.40:782][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube150)
+[2019.10.18-01.56.45:898][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube181)
+[2019.10.18-01.56.46:914][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube175)
+[2019.10.18-01.56.47:564][ 43]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube158)
+[2019.10.18-01.56.48:185][ 78]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube31)
+[2019.10.18-01.57.05:062][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube669)
+[2019.10.18-01.57.05:832][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube731)
+[2019.10.18-01.57.08:765][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube635)
+[2019.10.18-01.57.09:635][286]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube702)
+[2019.10.18-01.57.10:303][324]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube653)
+[2019.10.18-01.57.10:977][362]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube718)
+[2019.10.18-01.57.11:549][394]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube662)
+[2019.10.18-01.57.12:122][426]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube735)
+[2019.10.18-01.57.13:062][480]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube752)
+[2019.10.18-01.57.13:771][520]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube678)
+[2019.10.18-01.57.24:984][106]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube749)
+[2019.10.18-01.59.29:446][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-01.59.35:411][848]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube726)
+[2019.10.18-01.59.37:891][994]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube710)
+[2019.10.18-01.59.38:804][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube692)
+[2019.10.18-01.59.39:536][ 87]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube627)
+[2019.10.18-01.59.40:500][142]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube648)
+[2019.10.18-01.59.41:252][184]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube664)
+[2019.10.18-01.59.42:087][231]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube678)
+[2019.10.18-01.59.53:035][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-02.00.23:286][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-02.00.24:995][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube829)
+[2019.10.18-02.00.25:830][777]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube765)
+[2019.10.18-02.00.27:617][882]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube776)
+[2019.10.18-02.00.28:589][938]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube855)
+[2019.10.18-02.00.29:314][979]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube799)
+[2019.10.18-02.00.29:813][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube845)
+[2019.10.18-02.00.30:448][ 39]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube868)
+[2019.10.18-02.00.31:024][ 71]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube813)
+[2019.10.18-02.00.48:532][ 81]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube733)
+[2019.10.18-02.00.49:193][118]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube717)
+[2019.10.18-02.00.49:704][146]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube701)
+[2019.10.18-02.00.56:626][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-02.01.03:420][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-02.01.15:034][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-02.01.20:267][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-02.01.20:378][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.18-02.01.20:410][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.10.18-02.01.21:758][392]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap0E4D632841FFD82D2ADAD9B6FECA8BE3.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
+[2019.10.18-02.01.21:816][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.18-02.01.21:846][392]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData3B96DA464B7C179DDB390FB605B47273.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
