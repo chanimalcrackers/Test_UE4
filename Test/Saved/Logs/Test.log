@@ -1974,3 +1974,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.23-01.53.18:349][265]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
 [2019.10.23-01.53.18:349][265]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
 [2019.10.23-01.53.20:201][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.55.52:715][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.56.23:137][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.56.25:528][297]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush14)
+[2019.10.23-01.56.35:936][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.57.12:296][ 79]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.10.23-01.57.18:256][435]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.23-01.57.30:921][179]Cmd: TRANSACTION UNDO
+[2019.10.23-01.57.30:921][179]LogEditorTransaction: Undo Move Actors
+[2019.10.23-01.57.36:419][489]Cmd: DELETE
+[2019.10.23-01.57.36:419][489]Cmd: ACTOR DELETE
+[2019.10.23-01.57.36:460][489]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.57.36:501][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.23-01.57.36:511][489]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2019.10.23-01.57.55:677][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.57.55:807][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-01.57.55:839][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.10.23-01.57.58:990][613]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMapBCEAA9194A05836F0DCDAF9AE1BA77E9.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
+[2019.10.23-01.57.59:031][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.23-01.57.59:063][613]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltDataFFF697FB42B58FE2262C78AADE7D2AEC.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
