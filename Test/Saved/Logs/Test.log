@@ -915,3 +915,652 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-21.32.09:911][910]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap8D555E6F427C90F60B2225848A2FFC5A.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
 [2019.10.26-21.32.09:941][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
 [2019.10.26-21.32.09:972][910]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData3ADC83704C82663CFB51BC9C16A679F3.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
+[2019.10.26-21.32.31:886][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-21.32.31:998][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.26-21.32.32:026][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.26-21.32.34:813][ 27]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap495F493A496DDF1C3C035FB3381C5461.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
+[2019.10.26-21.32.34:847][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.26-21.32.34:864][ 27]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData22E5C9F94BC797C065DB48B550278F2F.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
+[2019.10.26-21.32.50:957][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-21.32.51:040][995]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-21.32.51:052][995]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.26-21.32.51:052][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-21.32.51:052][995]PIE: New page: PIE session: NewMap (Oct 26, 2019, 11:32:51 AM)
+[2019.10.26-21.32.51:052][995]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.26-21.32.51:186][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133444s)
+[2019.10.26-21.32.51:187][995]LogAIModule: Creating AISystem for world NewMap
+[2019.10.26-21.32.51:187][995]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2019.10.26-21.32.51:188][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.134707s)
+[2019.10.26-21.32.51:212][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.26-21.32.51:221][995]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.26-21.32.51:247][995]LogInit: FAudioDevice initialized.
+[2019.10.26-21.32.51:274][995]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.26-21.32.51:319][995]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.26-16.32.51
+[2019.10.26-21.32.51:321][995]LogWorld: Bringing up level for play took: 0.045517
+[2019.10.26-21.32.51:337][995]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap 0.551
+[2019.10.26-21.32.51:338][995]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.26-21.33.09:357][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.26-21.33.09:357][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-21.33.09:403][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-21.33.09:404][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.26-21.33.09:452][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-21.33.09:461][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.26-21.33.09:487][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.26-21.33.17:278][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-00.34.02:734][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:735][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:736][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:736][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:736][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:736][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:736][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:736][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:740][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:740][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:740][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:740][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:740][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:740][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:740][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:741][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:742][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:743][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:743][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:743][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:743][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:743][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:746][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:747][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:748][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:749][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:749][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:749][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.02:749][670]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-00.34.03:192][672]LogHttp: Warning: 00000224DBAF3740: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.10.27-00.34.03:192][672]LogHttp: Warning: 00000224DBAF3740: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x224efa43f70 [can pipeline])
+[2019.10.27-00.34.03:193][672]LogHttp: Warning: 00000224DBAF3740: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2019.10.27-00.34.03:193][672]LogHttp: Warning: 00000224DBAF3740: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.86.3.71) port 443 (#9))
+[2019.10.27-00.34.03:193][672]LogHttp: Warning: 00000224DBAF3740: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.27-00.34.03:193][672]LogHttp: Warning: 00000224DBAF3740: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.10.27-00.34.03:193][672]LogHttp: Warning: 00000224DBAF3740: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.27-00.34.03:193][672]LogHttp: Warning: 00000224DBAF3740: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.27-00.34.03:193][672]LogHttp: Warning: 00000224DBAF3740: libcurl info message cache 7 (Closing connection 9)
+[2019.10.27-00.34.03:194][672]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8F1D705-4790-1756-8081-D48778DC0A91%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=2e27c63b4dd34d2b26a0fb9a72eecea0%7Cacf191e4390e4768980ec630f93c44b9%7Ccb43588e-89e8-44d9-a654-06f9c805c21a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.27-01.39.46:472][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:472][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:472][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:473][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:474][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:475][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.46:476][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.39.48:855][686]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (2.384 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.27-01.58.02:594][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-01.58.12:986][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_48)
+[2019.10.27-01.58.13:897][242]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_49)
+[2019.10.27-01.58.14:521][308]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_51)
+[2019.10.27-01.58.16:621][544]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_50)
+[2019.10.27-01.58.46:413][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.58.46:523][998]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-01.58.46:538][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.27-01.58.46:538][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-01.58.46:541][998]PIE: New page: PIE session: NewMap (Oct 26, 2019, 3:58:46 PM)
+[2019.10.27-01.58.46:541][998]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.27-01.58.46:772][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.230865s)
+[2019.10.27-01.58.46:777][998]LogAIModule: Creating AISystem for world NewMap
+[2019.10.27-01.58.46:779][998]LogPlayLevel: PIE: World Init took: (0.006171s)
+[2019.10.27-01.58.46:779][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.238639s)
+[2019.10.27-01.58.46:806][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.10.27-01.58.46:816][998]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.27-01.58.46:841][998]LogInit: FAudioDevice initialized.
+[2019.10.27-01.58.46:877][998]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.27-01.58.46:951][998]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2019.10.26-20.58.46
+[2019.10.27-01.58.46:953][998]LogWorld: Bringing up level for play took: 0.071566
+[2019.10.27-01.58.46:976][998]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap -0.29
+[2019.10.27-01.58.46:976][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.27-01.59.04:918][138]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.27-01.59.04:919][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-01.59.04:967][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-01.59.04:968][138]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.27-01.59.05:002][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-01.59.05:011][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.10.27-01.59.05:034][139]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.27-01.59.54:004][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-01.59.54:078][  8]LogStaticMesh: Building static mesh MSH_Column_03...
+[2019.10.27-01.59.54:096][  8]LogStaticMesh: Built static mesh [0.02s] /Game/MP_ModularMansion/Meshes/MSH_Column_03.MSH_Column_03
+[2019.10.27-01.59.54:158][ 12]LogActorFactory: Actor Factory created MSH_Column_03
+[2019.10.27-01.59.55:958][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-02.00.00:167][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_02)
+[2019.10.27-02.00.37:880][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1414)
+[2019.10.27-02.00.38:986][ 34]Cmd: DELETE
+[2019.10.27-02.00.38:988][ 34]Cmd: ACTOR DELETE
+[2019.10.27-02.00.39:023][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:024][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:024][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:024][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:024][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:024][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:025][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:025][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:025][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:025][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:025][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:025][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:025][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:025][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:025][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:026][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:051][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.10.27-02.00.39:051][ 34]LogEditorActor: Deleted 16 Actors (0.063 secs)
+[2019.10.27-02.00.39:558][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1366)
+[2019.10.27-02.00.39:767][112]Cmd: DELETE
+[2019.10.27-02.00.39:767][112]Cmd: ACTOR DELETE
+[2019.10.27-02.00.39:801][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:801][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:801][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:801][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:802][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:802][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:802][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:802][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:802][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:802][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:802][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:803][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:803][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:803][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:803][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:803][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.39:827][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.10.27-02.00.39:828][112]LogEditorActor: Deleted 16 Actors (0.060 secs)
+[2019.10.27-02.00.41:239][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1388)
+[2019.10.27-02.00.41:544][310]Cmd: DELETE
+[2019.10.27-02.00.41:544][310]Cmd: ACTOR DELETE
+[2019.10.27-02.00.41:578][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:578][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:578][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:578][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:579][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:579][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:579][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:579][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:579][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:579][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:579][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:579][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:580][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:580][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:580][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:580][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.41:602][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.27-02.00.41:603][310]LogEditorActor: Deleted 16 Actors (0.059 secs)
+[2019.10.27-02.00.42:656][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1397)
+[2019.10.27-02.00.43:406][518]Cmd: DELETE
+[2019.10.27-02.00.43:406][518]Cmd: ACTOR DELETE
+[2019.10.27-02.00.43:440][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:440][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:440][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:441][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:441][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:441][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:441][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:441][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:442][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:442][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:442][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:442][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:442][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:442][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:442][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:442][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.43:464][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.27-02.00.43:465][518]LogEditorActor: Deleted 16 Actors (0.058 secs)
+[2019.10.27-02.00.45:011][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1350)
+[2019.10.27-02.00.45:594][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1334)
+[2019.10.27-02.00.46:813][904]Cmd: DELETE
+[2019.10.27-02.00.46:813][904]Cmd: ACTOR DELETE
+[2019.10.27-02.00.46:847][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:847][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:847][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:847][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:847][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:847][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:848][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:848][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:848][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:848][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:848][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:848][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:848][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:848][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:848][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:848][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.00.46:869][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.10.27-02.00.46:870][904]LogEditorActor: Deleted 16 Actors (0.058 secs)
+[2019.10.27-02.00.48:571][106]Cmd: TRANSACTION UNDO
+[2019.10.27-02.00.48:571][106]LogEditorTransaction: Undo Delete Actors
+[2019.10.27-02.00.54:878][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_4)
+[2019.10.27-02.01.06:001][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_52)
+[2019.10.27-02.01.40:256][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1276)
+[2019.10.27-02.01.41:421][200]Cmd: DELETE
+[2019.10.27-02.01.41:421][200]Cmd: ACTOR DELETE
+[2019.10.27-02.01.41:455][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:455][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:455][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:455][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:456][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:456][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:456][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:456][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:456][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:456][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:456][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:456][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:456][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:456][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:457][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:457][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.41:478][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.27-02.01.41:478][200]LogEditorActor: Deleted 16 Actors (0.057 secs)
+[2019.10.27-02.01.42:632][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1252)
+[2019.10.27-02.01.42:820][351]Cmd: DELETE
+[2019.10.27-02.01.42:820][351]Cmd: ACTOR DELETE
+[2019.10.27-02.01.42:854][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:854][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:854][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:855][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:855][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:855][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:855][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:855][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:855][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:855][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:855][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:855][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:856][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:856][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:856][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:856][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.42:881][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.27-02.01.42:881][351]LogEditorActor: Deleted 16 Actors (0.061 secs)
+[2019.10.27-02.01.43:656][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1204)
+[2019.10.27-02.01.43:852][457]Cmd: DELETE
+[2019.10.27-02.01.43:852][457]Cmd: ACTOR DELETE
+[2019.10.27-02.01.43:885][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:885][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:885][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:885][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:885][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:886][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:886][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:886][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:886][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:886][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:886][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:886][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:886][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:886][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:886][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:887][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.43:908][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.10.27-02.01.43:908][457]LogEditorActor: Deleted 16 Actors (0.057 secs)
+[2019.10.27-02.01.44:553][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1244)
+[2019.10.27-02.01.44:787][552]Cmd: DELETE
+[2019.10.27-02.01.44:787][552]Cmd: ACTOR DELETE
+[2019.10.27-02.01.44:820][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:820][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:820][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:820][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:820][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:820][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:821][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:821][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:821][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:821][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:821][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:821][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:821][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:821][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:821][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:821][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.44:843][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.27-02.01.44:843][552]LogEditorActor: Deleted 16 Actors (0.057 secs)
+[2019.10.27-02.01.45:493][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1155)
+[2019.10.27-02.01.45:688][643]Cmd: DELETE
+[2019.10.27-02.01.45:688][643]Cmd: ACTOR DELETE
+[2019.10.27-02.01.45:720][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:720][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:721][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:721][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:721][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:721][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:721][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:721][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:721][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:721][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:721][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:722][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:722][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:722][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:722][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:722][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.45:743][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.10.27-02.01.45:744][643]LogEditorActor: Deleted 16 Actors (0.056 secs)
+[2019.10.27-02.01.46:882][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1222)
+[2019.10.27-02.01.47:169][804]Cmd: DELETE
+[2019.10.27-02.01.47:169][804]Cmd: ACTOR DELETE
+[2019.10.27-02.01.47:202][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:202][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:202][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:202][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:202][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:202][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:203][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:203][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:203][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:203][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:203][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:203][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:203][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:203][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:203][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:203][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.47:227][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.27-02.01.47:227][804]LogEditorActor: Deleted 16 Actors (0.058 secs)
+[2019.10.27-02.01.47:818][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1172)
+[2019.10.27-02.01.48:166][906]Cmd: DELETE
+[2019.10.27-02.01.48:166][906]Cmd: ACTOR DELETE
+[2019.10.27-02.01.48:198][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:198][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:198][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:199][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:199][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:199][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:199][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:199][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:199][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:199][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:199][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:199][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:199][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:200][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:200][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:200][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.48:222][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.10.27-02.01.48:222][906]LogEditorActor: Deleted 16 Actors (0.056 secs)
+[2019.10.27-02.01.49:956][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1195)
+[2019.10.27-02.01.50:387][154]Cmd: DELETE
+[2019.10.27-02.01.50:387][154]Cmd: ACTOR DELETE
+[2019.10.27-02.01.50:421][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:421][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:421][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:421][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:421][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:421][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:421][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:421][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:422][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:422][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:422][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:422][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:422][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:422][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:422][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:422][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.27-02.01.50:446][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.10.27-02.01.50:447][154]LogEditorActor: Deleted 16 Actors (0.060 secs)
+[2019.10.27-02.01.58:076][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_4)
+[2019.10.27-02.02.21:997][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-02.02.22:122][836]LogStaticMesh: Building static mesh MSH_DoorFrame_01...
+[2019.10.27-02.02.22:151][836]LogStaticMesh: Built static mesh [0.03s] /Game/MP_ModularMansion/Meshes/MSH_DoorFrame_01.MSH_DoorFrame_01
+[2019.10.27-02.02.22:495][869]LogActorFactory: Actor Factory created MSH_DoorFrame_01
+[2019.10.27-02.02.23:696][993]LogActorFactory: Actor Factory created MSH_DoorFrame_01
+[2019.10.27-02.02.31:152][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-02.02.38:245][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_01)
+[2019.10.27-02.02.45:908][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_5)
+[2019.10.27-02.02.51:783][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_01)
+[2019.10.27-02.02.52:527][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_5)
+[2019.10.27-02.03.02:566][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-02.03.02:702][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.27-02.03.02:739][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.27-02.03.05:448][576]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap7B7496AA41EB03AF5C6FA78E9E41E8AE.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
+[2019.10.27-02.03.05:505][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.27-02.03.05:565][576]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltDataD918B6AA4487E7D5376D91A9F1687A6E.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
+[2019.10.27-02.06.03:218][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_4)
+[2019.10.27-02.06.12:256][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_5)
+[2019.10.27-02.06.17:857][814]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.10.27-02.06.18:324][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_01)
+[2019.10.27-02.06.29:149][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_01)
+[2019.10.27-02.06.33:513][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-02.07.10:100][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-02.07.17:447][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_52)
+[2019.10.27-02.07.29:993][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_01)
+[2019.10.27-02.07.31:718][199]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_2)
+[2019.10.27-02.07.32:335][267]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_3)
+[2019.10.27-02.07.34:932][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-02.07.43:578][541]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.27-02.08.05:603][ 74]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.27-02.08.16:399][315]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_11)
+[2019.10.27-02.08.17:117][390]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_12)
+[2019.10.27-02.08.17:692][449]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_13)
+[2019.10.27-02.08.18:301][511]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_14)
+[2019.10.27-02.09.18:363][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-02.09.18:532][303]AssetReimport: New page: Detailed File System Changes from 9:09:18 PM
+[2019.10.27-02.09.18:549][303]AssetReimport: 'C:/Users/David Chan/Desktop/Test_UE4/Test/Content/Materials_Pack/Materials_Pack/Saved/AutoScreenshot.png' has been created.
+[2019.10.27-02.09.18:549][303]AssetReimport: 'C:/Users/David Chan/Desktop/Test_UE4/Test/Content/Materials_Pack/Materials_Pack/Saved/Autosaves/PackageRestoreData.json' has been created.
+[2019.10.27-02.09.18:549][303]AssetReimport: 'C:/Users/David Chan/Desktop/Test_UE4/Test/Content/Materials_Pack/Materials_Pack/Saved/Config/WorldState/112858600.json' has been created.
+[2019.10.27-02.09.18:549][303]AssetReimport: 'C:/Users/David Chan/Desktop/Test_UE4/Test/Content/Materials_Pack/Materials_Pack/Saved/Config/WorldState/3550941041.json' has been created.
+[2019.10.27-02.09.24:739][952]LogSlate: Window 'Message Log' being destroyed
+[2019.10.27-02.09.24:743][952]LogSlate: Window 'Message Log' being destroyed
+[2019.10.27-02.09.26:041][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-02.09.29:179][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.27-02.09.29:214][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.27-02.09.31:871][423]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap9766C62742AE90AF56BF09B96598A86D.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
+[2019.10.27-02.09.31:901][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.27-02.09.31:933][423]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData28412D0C44F92D86D93714A26E3F3607.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
