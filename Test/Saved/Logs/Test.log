@@ -1564,3 +1564,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.27-02.09.31:871][423]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap9766C62742AE90AF56BF09B96598A86D.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
 [2019.10.27-02.09.31:901][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
 [2019.10.27-02.09.31:933][423]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData28412D0C44F92D86D93714A26E3F3607.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
+[2019.10.27-02.10.05:414][736]Cmd: TRANSACTION UNDO
+[2019.10.27-02.10.05:414][736]LogEditorTransaction: Undo Move Actors
+[2019.10.27-02.10.31:064][654]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.10.27-02.10.31:769][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_5)
+[2019.10.27-02.10.38:192][498]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.10.27-02.10.38:742][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_01)
+[2019.10.27-02.10.39:600][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-02.10.46:327][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_01)
+[2019.10.27-02.10.47:178][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_01)
+[2019.10.27-02.10.57:475][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_5)
+[2019.10.27-02.11.03:872][518]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2019.10.27-02.11.04:388][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_01)
+[2019.10.27-02.11.09:626][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_5)
+[2019.10.27-02.11.14:785][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-02.11.15:207][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-02.11.15:276][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-02.11.26:334][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_64)
+[2019.10.27-02.11.29:019][391]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_59)
+[2019.10.27-02.11.32:431][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_57)
+[2019.10.27-02.11.33:123][851]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_58)
+[2019.10.27-02.11.33:747][921]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_59)
+[2019.10.27-02.11.34:303][983]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_60)
+[2019.10.27-02.11.35:008][ 63]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_61)
+[2019.10.27-02.11.38:042][422]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_62)
+[2019.10.27-02.11.42:123][907]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_63)
+[2019.10.27-02.11.43:457][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_64)
+[2019.10.27-02.11.44:052][129]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_65)
+[2019.10.27-02.11.44:681][200]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_66)
+[2019.10.27-02.11.46:949][465]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_67)
+[2019.10.27-02.12.08:871][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_67)
+[2019.10.27-02.12.14:549][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-02.12.14:668][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.27-02.12.14:697][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.27-02.12.17:422][625]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap6833E7774786B7A9B75E9190AC2F6642.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
+[2019.10.27-02.12.17:456][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.27-02.12.17:474][625]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltDataD88730844420793F1540B39C30D9119C.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
