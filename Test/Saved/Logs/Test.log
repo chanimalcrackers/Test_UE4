@@ -6267,3 +6267,158 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-19.13.09:138][863]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMapB5D339804DF86B892A81FFBE08E1CD22.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
 [2019.10.29-19.13.09:173][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
 [2019.10.29-19.13.09:991][863]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData0623C4494F0067AE517E9297E6A97BB4.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
+[2019.10.29-19.21.05:590][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_35)
+[2019.10.29-19.21.08:746][468]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight40)
+[2019.10.29-19.21.15:895][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.21.15:978][900]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-19.21.15:993][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.21.15:994][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.21.15:994][900]PIE: New page: PIE session: NewMap (Oct 29, 2019, 9:21:15 AM)
+[2019.10.29-19.21.15:994][900]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-19.21.16:143][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148293s)
+[2019.10.29-19.21.16:143][900]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-19.21.16:143][900]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2019.10.29-19.21.16:144][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.149524s)
+[2019.10.29-19.21.16:170][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.29-19.21.16:178][900]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-19.21.16:202][900]LogInit: FAudioDevice initialized.
+[2019.10.29-19.21.16:229][900]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-19.21.16:279][900]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.29-14.21.16
+[2019.10.29-19.21.16:281][900]LogWorld: Bringing up level for play took: 0.050400
+[2019.10.29-19.21.16:297][900]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap -0.203
+[2019.10.29-19.21.16:297][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.21.23:525][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.21.23:525][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.21.23:566][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.21.23:566][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.21.23:605][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.21.23:615][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.10.29-19.21.23:639][332]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.29-19.21.25:044][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_92)
+[2019.10.29-19.21.25:763][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_35)
+[2019.10.29-19.21.26:917][524]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight40)
+[2019.10.29-19.23.14:205][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-19.23.14:248][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.29-19.23.14:249][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.29-19.23.16:618][946]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_Auto6D2D780154570C2467215A7ADA8734D3A.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto6.umap'
+[2019.10.29-19.23.16:630][946]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 2.409
+[2019.10.29-19.23.16:631][946]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.409
+[2019.10.29-19.23.22:422][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PictureSetB2)
+[2019.10.29-19.23.34:962][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_37)
+[2019.10.29-19.23.53:299][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.24.28:662][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PictureSetC2)
+[2019.10.29-19.26.45:611][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_36)
+[2019.10.29-19.26.47:040][485]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight41)
+[2019.10.29-19.30.34:166][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.30.34:249][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-19.30.34:265][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.30.34:265][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.30.34:265][ 50]PIE: New page: PIE session: NewMap (Oct 29, 2019, 9:30:34 AM)
+[2019.10.29-19.30.34:265][ 50]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-19.30.34:401][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136625s)
+[2019.10.29-19.30.34:402][ 50]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-19.30.34:402][ 50]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2019.10.29-19.30.34:403][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.138533s)
+[2019.10.29-19.30.34:430][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.10.29-19.30.34:438][ 50]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-19.30.34:463][ 50]LogInit: FAudioDevice initialized.
+[2019.10.29-19.30.34:494][ 50]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-19.30.34:536][ 50]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.29-14.30.34
+[2019.10.29-19.30.34:538][ 50]LogWorld: Bringing up level for play took: 0.042483
+[2019.10.29-19.30.34:554][ 50]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap 0.054
+[2019.10.29-19.30.34:554][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.30.39:339][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.30.39:339][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.30.39:380][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.30.39:380][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.30.39:434][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.30.39:444][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.29-19.30.39:468][335]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.29-19.30.40:589][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_36)
+[2019.10.29-19.30.41:944][481]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight41)
+[2019.10.29-19.31.06:074][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.31.06:144][926]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-19.31.06:159][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.31.06:160][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.31.06:160][926]PIE: New page: PIE session: NewMap (Oct 29, 2019, 9:31:06 AM)
+[2019.10.29-19.31.06:160][926]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-19.31.06:294][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.134981s)
+[2019.10.29-19.31.06:295][926]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-19.31.06:295][926]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2019.10.29-19.31.06:295][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.136018s)
+[2019.10.29-19.31.06:319][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.29-19.31.06:325][926]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-19.31.06:346][926]LogInit: FAudioDevice initialized.
+[2019.10.29-19.31.06:378][926]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-19.31.06:417][926]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.29-14.31.06
+[2019.10.29-19.31.06:419][926]LogWorld: Bringing up level for play took: 0.039604
+[2019.10.29-19.31.06:433][926]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap -0.066
+[2019.10.29-19.31.06:434][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.31.10:136][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.31.10:136][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.31.10:180][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.31.10:181][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-19.31.10:221][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.31.10:237][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.29-19.31.10:262][147]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.29-19.31.11:567][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_35)
+[2019.10.29-19.31.12:891][302]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight40)
+[2019.10.29-19.31.26:086][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_29)
+[2019.10.29-19.31.27:193][153]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight34)
+[2019.10.29-19.31.29:185][271]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight32)
+[2019.10.29-19.31.30:140][327]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_17)
+[2019.10.29-19.31.32:287][453]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Deco_Sconce_27)
+[2019.10.29-19.31.43:568][127]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.29-19.31.47:058][324]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.29-19.32.03:800][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.33.38:245][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.33.40:479][102]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2019.10.29-19.35.00:110][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_99)
+[2019.10.29-19.35.01:363][931]Cmd: TRANSACTION UNDO
+[2019.10.29-19.35.01:363][931]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-19.36.16:404][410]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight19)
+[2019.10.29-19.36.18:295][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.36.31:813][331]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight17)
+[2019.10.29-19.36.33:615][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.37.10:753][651]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight52)
+[2019.10.29-19.37.11:205][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-19.37.11:245][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.29-19.37.11:246][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.29-19.37.13:678][675]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_Auto7CE3CD3E94018B50D9281BBB5A4189E5E.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto7.umap'
+[2019.10.29-19.37.13:681][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 2.464
+[2019.10.29-19.37.13:681][675]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.464
+[2019.10.29-19.37.14:481][721]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Deco_Sconce_48)
+[2019.10.29-19.37.15:616][787]Cmd: DELETE
+[2019.10.29-19.37.15:616][787]Cmd: ACTOR DELETE
+[2019.10.29-19.37.15:650][787]LogEditorActor: Deleted Actor: PointLight
+[2019.10.29-19.37.15:651][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-19.37.15:674][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.10.29-19.37.15:674][787]LogEditorActor: Deleted 2 Actors (0.058 secs)
+[2019.10.29-19.37.20:953][103]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight47)
+[2019.10.29-19.37.22:202][176]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Deco_Sconce_43)
+[2019.10.29-19.40.59:117][166]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight58)
+[2019.10.29-19.41.03:918][452]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Deco_Sconce_54)
+[2019.10.29-19.41.06:257][591]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight57)
+[2019.10.29-19.41.07:084][639]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Deco_Sconce_53)
+[2019.10.29-19.47.25:808][315]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight68)
+[2019.10.29-19.47.30:030][564]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight68)
+[2019.10.29-19.47.31:272][638]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Deco_Sconce_64)
+[2019.10.29-19.47.45:469][488]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight67)
+[2019.10.29-19.47.46:965][576]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Deco_Sconce_63)
+[2019.10.29-19.48.15:944][306]Cmd: TRANSACTION UNDO
+[2019.10.29-19.48.15:945][306]LogEditorTransaction: Undo Move Actors
+[2019.10.29-19.49.43:232][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_70)
+[2019.10.29-19.49.44:306][588]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight74)
+[2019.10.29-19.50.06:620][920]Cmd: TRANSACTION UNDO
+[2019.10.29-19.50.06:620][920]LogEditorTransaction: Undo Move Actors
+[2019.10.29-19.50.44:064][161]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-19.50.44:122][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.29-19.50.44:131][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.29-19.50.46:587][161]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_Auto843B49B3D433EF5CC2965E89F325B4626.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto8.umap'
+[2019.10.29-19.50.46:591][161]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 2.506
+[2019.10.29-19.50.46:591][161]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.506
+[2019.10.29-19.50.47:267][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-19.50.47:297][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.29-19.50.50:014][200]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap00A24DC24214D123D6370E837A664738.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
+[2019.10.29-19.50.50:047][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.29-19.50.50:852][200]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData71B7D33C41DD5FE702E7FCB11BBB7E80.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
