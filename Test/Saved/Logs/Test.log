@@ -1183,3 +1183,429 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-01.52.09:066][454]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMapACEBEAF84A4E810C9BB5EEBE796D0F03.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
 [2019.10.29-01.52.09:098][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
 [2019.10.29-01.52.09:116][454]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData69CF6EC34BA5D4AD39BEDEAE8E001137.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
+[2019.10.29-01.52.36:585][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-01.52.36:990][922]LogActorFactory: Actor Factory created SM_Classic_table
+[2019.10.29-01.52.38:143][989]LogActorFactory: Actor Factory created SM_Classic_table
+[2019.10.29-01.53.00:981][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-01.53.01:346][207]LogActorFactory: Actor Factory created SM_Classic_Leather_Armchair
+[2019.10.29-01.53.02:437][269]LogActorFactory: Actor Factory created SM_Classic_Leather_Armchair
+[2019.10.29-01.53.15:384][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-01.53.19:632][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Leather_Sofa)
+[2019.10.29-01.53.21:648][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-01.53.26:768][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_table)
+[2019.10.29-01.53.28:053][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-01.53.40:273][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-01.53.40:373][526]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-01.53.40:386][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-01.53.40:386][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-01.53.40:386][526]PIE: New page: PIE session: NewMap (Oct 28, 2019, 3:53:40 PM)
+[2019.10.29-01.53.40:387][526]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-01.53.40:514][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127337s)
+[2019.10.29-01.53.40:515][526]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-01.53.40:515][526]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2019.10.29-01.53.40:516][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.128823s)
+[2019.10.29-01.53.40:543][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.10.29-01.53.40:551][526]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-01.53.40:576][526]LogInit: FAudioDevice initialized.
+[2019.10.29-01.53.40:603][526]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-01.53.40:662][526]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.28-20.53.40
+[2019.10.29-01.53.40:664][526]LogWorld: Bringing up level for play took: 0.058624
+[2019.10.29-01.53.40:680][526]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap -0.115
+[2019.10.29-01.53.40:681][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-01.53.57:562][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-01.53.57:562][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-01.53.57:600][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-01.53.57:601][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-01.53.57:652][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-01.53.57:662][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.10.29-01.53.57:688][536]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.29-01.53.59:441][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_54)
+[2019.10.29-01.54.22:422][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_53)
+[2019.10.29-01.54.39:191][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_52)
+[2019.10.29-01.54.52:857][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_56)
+[2019.10.29-01.55.04:449][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_52)
+[2019.10.29-01.55.51:010][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_107)
+[2019.10.29-01.55.52:570][384]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_106)
+[2019.10.29-01.55.53:292][425]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_105)
+[2019.10.29-01.55.54:745][510]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_108)
+[2019.10.29-01.56.05:264][129]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.10.29-01.56.18:911][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_10)
+[2019.10.29-01.56.20:578][ 36]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.10.29-01.56.24:884][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-01.57.41:522][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_23)
+[2019.10.29-01.57.43:142][954]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Deco_Sconce_24)
+[2019.10.29-01.57.53:320][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-01.57.53:420][564]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-01.57.53:434][564]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-01.57.53:434][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-01.57.53:434][564]PIE: New page: PIE session: NewMap (Oct 28, 2019, 3:57:53 PM)
+[2019.10.29-01.57.53:434][564]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-01.57.53:565][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130270s)
+[2019.10.29-01.57.53:565][564]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-01.57.53:565][564]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2019.10.29-01.57.53:566][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.131780s)
+[2019.10.29-01.57.53:589][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.29-01.57.53:596][564]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-01.57.53:622][564]LogInit: FAudioDevice initialized.
+[2019.10.29-01.57.53:649][564]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-01.57.53:705][564]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.28-20.57.53
+[2019.10.29-01.57.53:706][564]LogWorld: Bringing up level for play took: 0.056459
+[2019.10.29-01.57.53:723][564]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap 0.928
+[2019.10.29-01.57.53:724][564]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-01.58.04:602][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-01.58.04:603][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-01.58.04:659][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-01.58.04:660][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-01.58.04:731][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-01.58.04:741][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.29-01.58.04:774][214]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.29-01.58.48:023][266]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2019.10.29-01.58.48:643][300]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube30)
+[2019.10.29-01.58.49:259][334]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube166)
+[2019.10.29-01.58.50:192][387]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube152)
+[2019.10.29-01.58.50:992][432]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube198)
+[2019.10.29-01.58.51:792][477]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube182)
+[2019.10.29-01.58.57:106][791]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube214)
+[2019.10.29-01.59.30:084][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-01.59.34:170][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube252)
+[2019.10.29-01.59.39:621][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-01.59.49:877][776]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube43)
+[2019.10.29-01.59.51:526][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube62)
+[2019.10.29-01.59.52:524][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2019.10.29-01.59.53:484][984]Cmd: DELETE
+[2019.10.29-01.59.53:484][984]Cmd: ACTOR DELETE
+[2019.10.29-01.59.53:529][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:530][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:530][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:530][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:530][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:531][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:531][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:531][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:531][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:532][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:532][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:532][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:532][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:533][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:533][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:534][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.53:560][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.29-01.59.53:561][984]LogEditorActor: Deleted 16 Actors (0.076 secs)
+[2019.10.29-01.59.54:029][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube59)
+[2019.10.29-01.59.54:586][ 42]Cmd: DELETE
+[2019.10.29-01.59.54:586][ 42]Cmd: ACTOR DELETE
+[2019.10.29-01.59.54:653][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:653][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:653][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:653][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:654][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:654][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:654][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:654][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:654][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:654][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:654][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:654][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:654][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:654][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:655][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:655][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.54:677][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.29-01.59.54:677][ 42]LogEditorActor: Deleted 16 Actors (0.091 secs)
+[2019.10.29-01.59.55:187][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube246)
+[2019.10.29-01.59.55:364][ 80]Cmd: DELETE
+[2019.10.29-01.59.55:364][ 80]Cmd: ACTOR DELETE
+[2019.10.29-01.59.55:415][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:415][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:415][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:415][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:415][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:416][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:416][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:416][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:416][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:416][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:416][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:416][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:416][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:416][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:417][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:418][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.55:440][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.29-01.59.55:440][ 80]LogEditorActor: Deleted 16 Actors (0.075 secs)
+[2019.10.29-01.59.55:892][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1045)
+[2019.10.29-01.59.56:152][119]Cmd: DELETE
+[2019.10.29-01.59.56:152][119]Cmd: ACTOR DELETE
+[2019.10.29-01.59.56:187][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:187][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:187][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:188][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:189][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:190][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:211][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.10.29-01.59.56:211][119]LogEditorActor: Deleted 16 Actors (0.059 secs)
+[2019.10.29-01.59.56:684][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1035)
+[2019.10.29-01.59.56:846][154]Cmd: DELETE
+[2019.10.29-01.59.56:846][154]Cmd: ACTOR DELETE
+[2019.10.29-01.59.56:882][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:882][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:882][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:882][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:882][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:882][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:883][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:883][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:883][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:883][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:883][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:883][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:883][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:883][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:883][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:884][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.56:906][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.29-01.59.56:906][154]LogEditorActor: Deleted 16 Actors (0.060 secs)
+[2019.10.29-01.59.57:656][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1060)
+[2019.10.29-01.59.58:015][217]Cmd: DELETE
+[2019.10.29-01.59.58:015][217]Cmd: ACTOR DELETE
+[2019.10.29-01.59.58:051][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:052][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:052][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:052][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:052][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:052][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:052][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:053][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:053][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:053][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:053][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:053][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:053][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:053][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:053][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:054][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.58:077][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.29-01.59.58:077][217]LogEditorActor: Deleted 16 Actors (0.062 secs)
+[2019.10.29-01.59.59:584][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1077)
+[2019.10.29-01.59.59:901][322]Cmd: DELETE
+[2019.10.29-01.59.59:901][322]Cmd: ACTOR DELETE
+[2019.10.29-01.59.59:936][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:936][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:936][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:936][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:937][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:937][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:937][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:937][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:937][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:937][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:937][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:937][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:938][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:938][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:938][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:939][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-01.59.59:962][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.29-01.59.59:962][322]LogEditorActor: Deleted 16 Actors (0.061 secs)
+[2019.10.29-02.00.17:756][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.00.17:872][360]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-02.00.17:885][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.00.17:885][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-02.00.17:885][360]PIE: New page: PIE session: NewMap (Oct 28, 2019, 4:00:17 PM)
+[2019.10.29-02.00.17:885][360]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-02.00.18:036][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151338s)
+[2019.10.29-02.00.18:036][360]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-02.00.18:037][360]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2019.10.29-02.00.18:037][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.152732s)
+[2019.10.29-02.00.18:066][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.29-02.00.18:072][360]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-02.00.18:097][360]LogInit: FAudioDevice initialized.
+[2019.10.29-02.00.18:124][360]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-02.00.18:192][360]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.28-21.00.18
+[2019.10.29-02.00.18:194][360]LogWorld: Bringing up level for play took: 0.067843
+[2019.10.29-02.00.18:211][360]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap -0.584
+[2019.10.29-02.00.18:212][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.00.31:112][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.00.31:112][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-02.00.31:158][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-02.00.31:159][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.00.31:212][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-02.00.31:221][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.10.29-02.00.31:250][131]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.10.29-02.00.35:307][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.00.38:887][583]LogStaticMesh: Building static mesh MSH_Deco_Sconce_02...
+[2019.10.29-02.00.38:949][583]LogStaticMesh: Built static mesh [0.06s] /Game/MP_ModularMansion/Meshes/MSH_Deco_Sconce_02.MSH_Deco_Sconce_02
+[2019.10.29-02.00.38:985][583]LogActorFactory: Actor Factory created MSH_Deco_Sconce_02
+[2019.10.29-02.00.41:082][708]LogActorFactory: Actor Factory created MSH_Deco_Sconce_02
+[2019.10.29-02.01.12:233][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.01.40:749][262]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.29-02.01.42:743][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.01.51:945][931]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight27)
+[2019.10.29-02.02.07:977][879]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight27)
+[2019.10.29-02.02.09:491][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.02.34:162][434]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight28)
+[2019.10.29-02.02.36:991][602]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight29)
+[2019.10.29-02.02.47:480][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_02)
+[2019.10.29-02.02.48:080][257]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight29)
+[2019.10.29-02.03.11:103][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_96)
+[2019.10.29-02.03.13:183][750]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight30)
+[2019.10.29-02.03.14:409][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.03.27:789][621]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight27)
+[2019.10.29-02.03.30:986][810]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight30)
+[2019.10.29-02.03.36:262][122]Cmd: DELETE
+[2019.10.29-02.03.36:262][122]Cmd: ACTOR DELETE
+[2019.10.29-02.03.36:306][122]LogEditorActor: Deleted Actor: PointLight
+[2019.10.29-02.03.36:331][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.10.29-02.03.36:331][122]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2019.10.29-02.03.37:347][183]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight29)
+[2019.10.29-02.03.45:751][681]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight29)
+[2019.10.29-02.03.47:068][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.03.50:754][978]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight30)
+[2019.10.29-02.03.53:636][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.03.57:343][370]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight27)
+[2019.10.29-02.03.58:469][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.04.03:316][725]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight30)
+[2019.10.29-02.04.24:301][974]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight27)
+[2019.10.29-02.04.28:616][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.04.29:132][260]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-02.04.29:147][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.04.29:147][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-02.04.29:148][260]PIE: New page: PIE session: NewMap (Oct 28, 2019, 4:04:29 PM)
+[2019.10.29-02.04.29:148][260]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-02.04.29:294][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146197s)
+[2019.10.29-02.04.29:295][260]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-02.04.29:295][260]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2019.10.29-02.04.29:295][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.147411s)
+[2019.10.29-02.04.29:320][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.29-02.04.29:326][260]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-02.04.29:349][260]LogInit: FAudioDevice initialized.
+[2019.10.29-02.04.29:380][260]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-02.04.29:418][260]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.28-21.04.29
+[2019.10.29-02.04.29:419][260]LogWorld: Bringing up level for play took: 0.038180
+[2019.10.29-02.04.29:435][260]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap 0.639
+[2019.10.29-02.04.29:435][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.04.35:245][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.04.35:245][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-02.04.35:294][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-02.04.35:294][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.04.35:364][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-02.04.35:372][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.10.29-02.04.35:398][606]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.10.29-02.04.38:509][792]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight31)
+[2019.10.29-02.05.03:961][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.10.29-02.05.03:970][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.29-02.05.07:200][895]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_Auto6BF44E89940E4804894E53FB289F9FB71.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto6.umap'
+[2019.10.29-02.05.07:204][895]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 3.298
+[2019.10.29-02.05.07:204][895]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.298
+[2019.10.29-02.05.27:797][153]Cmd: DELETE
+[2019.10.29-02.05.27:797][153]Cmd: ACTOR DELETE
+[2019.10.29-02.05.27:827][153]LogEditorActor: Deleted Actor: PointLight
+[2019.10.29-02.05.27:852][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.10.29-02.05.27:852][153]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.10.29-02.05.28:904][216]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight30)
+[2019.10.29-02.05.29:345][241]Cmd: DELETE
+[2019.10.29-02.05.29:345][241]Cmd: ACTOR DELETE
+[2019.10.29-02.05.29:387][241]LogEditorActor: Deleted Actor: PointLight
+[2019.10.29-02.05.29:410][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.29-02.05.29:411][241]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2019.10.29-02.05.33:362][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_02)
+[2019.10.29-02.05.37:083][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.05.44:386][136]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight27)
+[2019.10.29-02.05.59:809][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.06.22:760][426]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight29)
+[2019.10.29-02.06.24:099][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_89)
+[2019.10.29-02.06.24:797][543]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight29)
+[2019.10.29-02.06.35:883][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_89)
+[2019.10.29-02.06.39:647][423]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_88)
+[2019.10.29-02.07.00:797][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_89)
+[2019.10.29-02.07.03:296][829]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_88)
+[2019.10.29-02.07.16:971][645]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight28)
+[2019.10.29-02.07.25:817][171]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight29)
+[2019.10.29-02.07.41:703][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.07.47:371][453]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.29-02.07.48:811][539]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight29)
+[2019.10.29-02.07.50:246][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.07.56:143][972]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.29-02.07.57:641][ 61]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight28)
+[2019.10.29-02.08.00:763][245]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.08.04:416][462]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.29-02.08.12:159][924]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight27)
+[2019.10.29-02.08.13:448][  0]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight30)
+[2019.10.29-02.08.14:596][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.08.18:045][271]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.29-02.08.19:267][344]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-02.08.19:279][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.08.19:279][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-02.08.19:279][344]PIE: New page: PIE session: NewMap (Oct 28, 2019, 4:08:19 PM)
+[2019.10.29-02.08.19:279][344]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-02.08.19:411][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132433s)
+[2019.10.29-02.08.19:412][344]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-02.08.19:412][344]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2019.10.29-02.08.19:414][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.134965s)
+[2019.10.29-02.08.19:449][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.29-02.08.19:456][344]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-02.08.19:479][344]LogInit: FAudioDevice initialized.
+[2019.10.29-02.08.19:510][344]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-02.08.19:572][344]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.28-21.08.19
+[2019.10.29-02.08.19:574][344]LogWorld: Bringing up level for play took: 0.062067
+[2019.10.29-02.08.19:591][344]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap 0.796
+[2019.10.29-02.08.19:592][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.08.27:451][812]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.08.27:451][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-02.08.27:490][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-02.08.27:490][812]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.08.27:527][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-02.08.27:536][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.10.29-02.08.27:560][813]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.29-02.08.33:734][183]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight31)
+[2019.10.29-02.08.38:522][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.08.40:791][601]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.29-02.08.42:138][681]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight28)
+[2019.10.29-02.08.45:908][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.08.49:532][122]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight29)
+[2019.10.29-02.08.50:730][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.08.56:717][550]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight30)
+[2019.10.29-02.08.58:161][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.09.04:618][ 22]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight27)
+[2019.10.29-02.09.05:741][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.09.08:907][278]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-02.09.08:919][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.09.08:919][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-02.09.08:919][278]PIE: New page: PIE session: NewMap (Oct 28, 2019, 4:09:08 PM)
+[2019.10.29-02.09.08:919][278]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-02.09.09:045][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125367s)
+[2019.10.29-02.09.09:045][278]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-02.09.09:045][278]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2019.10.29-02.09.09:046][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.126508s)
+[2019.10.29-02.09.09:072][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.29-02.09.09:077][278]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-02.09.09:100][278]LogInit: FAudioDevice initialized.
+[2019.10.29-02.09.09:130][278]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-02.09.09:198][278]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.28-21.09.09
+[2019.10.29-02.09.09:200][278]LogWorld: Bringing up level for play took: 0.069072
+[2019.10.29-02.09.09:216][278]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap 0.421
+[2019.10.29-02.09.09:216][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.09.19:023][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.09.19:024][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-02.09.19:070][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-02.09.19:071][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-02.09.19:135][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-02.09.19:148][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.10.29-02.09.19:176][861]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.29-02.09.27:618][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.09.27:714][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-02.09.27:741][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.29-02.09.30:425][368]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap905ACE2F47872014E989499D78A14E73.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
+[2019.10.29-02.09.30:461][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.29-02.09.30:483][368]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData5622A5E741B7F38F260738AD11438FCB.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
