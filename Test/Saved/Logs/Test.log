@@ -6776,3 +6776,707 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-20.09.06:614][961]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap74652BFF4F5D894CAD884FBDEAE5827B.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
 [2019.10.29-20.09.06:646][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
 [2019.10.29-20.09.07:411][961]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltData8ED53C584031A51371991188569C1323.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
+[2019.10.29-20.09.55:556][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1439)
+[2019.10.29-20.09.57:298][714]Cmd: DELETE
+[2019.10.29-20.09.57:298][714]Cmd: ACTOR DELETE
+[2019.10.29-20.09.57:338][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:338][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:338][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:338][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:338][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:338][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:339][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:339][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:339][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:339][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:339][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:339][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:339][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:339][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:339][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:340][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.57:365][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.29-20.09.57:366][714]LogEditorActor: Deleted 16 Actors (0.068 secs)
+[2019.10.29-20.09.57:944][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1542)
+[2019.10.29-20.09.58:161][760]Cmd: DELETE
+[2019.10.29-20.09.58:161][760]Cmd: ACTOR DELETE
+[2019.10.29-20.09.58:197][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:198][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:198][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:198][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:198][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:198][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:198][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:199][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:199][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:199][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:199][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:199][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:199][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:199][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:199][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:200][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:223][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.29-20.09.58:223][760]LogEditorActor: Deleted 16 Actors (0.062 secs)
+[2019.10.29-20.09.58:622][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1523)
+[2019.10.29-20.09.58:841][795]Cmd: DELETE
+[2019.10.29-20.09.58:842][795]Cmd: ACTOR DELETE
+[2019.10.29-20.09.58:879][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:879][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:879][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:879][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:880][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:880][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:880][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:880][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:880][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:880][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:880][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:880][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:881][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:881][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:881][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:882][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.58:904][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.10.29-20.09.58:904][795]LogEditorActor: Deleted 16 Actors (0.063 secs)
+[2019.10.29-20.09.59:353][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1509)
+[2019.10.29-20.09.59:537][831]Cmd: DELETE
+[2019.10.29-20.09.59:537][831]Cmd: ACTOR DELETE
+[2019.10.29-20.09.59:574][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:574][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:574][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:574][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:574][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:575][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:575][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:575][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:575][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:575][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:575][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:575][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:575][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:575][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:575][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:576][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.09.59:601][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.29-20.09.59:601][831]LogEditorActor: Deleted 16 Actors (0.063 secs)
+[2019.10.29-20.09.59:950][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube597)
+[2019.10.29-20.10.00:133][861]Cmd: DELETE
+[2019.10.29-20.10.00:133][861]Cmd: ACTOR DELETE
+[2019.10.29-20.10.00:169][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:170][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:170][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:170][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:170][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:170][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:170][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:171][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:171][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:171][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:171][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:171][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:171][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:171][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:171][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:172][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:195][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.29-20.10.00:195][861]LogEditorActor: Deleted 16 Actors (0.062 secs)
+[2019.10.29-20.10.00:510][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube582)
+[2019.10.29-20.10.00:626][885]Cmd: DELETE
+[2019.10.29-20.10.00:626][885]Cmd: ACTOR DELETE
+[2019.10.29-20.10.00:663][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:663][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:663][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:663][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:664][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:664][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:664][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:664][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:664][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:664][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:664][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:664][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:664][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:665][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:665][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:665][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.00:689][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.29-20.10.00:689][885]LogEditorActor: Deleted 16 Actors (0.063 secs)
+[2019.10.29-20.10.01:088][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube574)
+[2019.10.29-20.10.01:288][919]Cmd: DELETE
+[2019.10.29-20.10.01:288][919]Cmd: ACTOR DELETE
+[2019.10.29-20.10.01:335][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:336][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:336][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:336][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:336][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:336][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:336][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:336][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:336][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:337][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:337][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:337][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:337][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:337][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:337][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:338][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:361][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.29-20.10.01:361][919]LogEditorActor: Deleted 16 Actors (0.073 secs)
+[2019.10.29-20.10.01:677][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1492)
+[2019.10.29-20.10.01:777][942]Cmd: DELETE
+[2019.10.29-20.10.01:777][942]Cmd: ACTOR DELETE
+[2019.10.29-20.10.01:814][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:814][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:814][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:814][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:815][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:815][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:815][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:815][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:815][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:815][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:815][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:815][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:815][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:816][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:816][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:816][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.01:840][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.29-20.10.01:840][942]LogEditorActor: Deleted 16 Actors (0.063 secs)
+[2019.10.29-20.10.03:145][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube546)
+[2019.10.29-20.10.03:503][ 39]Cmd: DELETE
+[2019.10.29-20.10.03:503][ 39]Cmd: ACTOR DELETE
+[2019.10.29-20.10.03:538][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:538][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:538][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:538][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:538][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:538][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:538][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:539][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:539][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:539][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:539][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:539][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:539][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:539][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:539][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:540][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.10.03:563][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.29-20.10.03:563][ 39]LogEditorActor: Deleted 16 Actors (0.059 secs)
+[2019.10.29-20.10.05:623][163]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.05:623][163]LogEditorTransaction: Undo Delete Actors
+[2019.10.29-20.10.05:847][168]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.05:847][168]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-20.10.06:121][184]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.06:121][184]LogEditorTransaction: Undo Delete Actors
+[2019.10.29-20.10.06:519][201]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.06:519][201]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-20.10.06:870][222]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.06:870][222]LogEditorTransaction: Undo Delete Actors
+[2019.10.29-20.10.07:136][231]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.07:136][231]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-20.10.07:386][246]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.07:386][246]LogEditorTransaction: Undo Delete Actors
+[2019.10.29-20.10.07:619][253]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.07:619][253]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-20.10.07:853][267]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.07:853][267]LogEditorTransaction: Undo Delete Actors
+[2019.10.29-20.10.08:084][274]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.08:084][274]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-20.10.08:301][287]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.08:301][287]LogEditorTransaction: Undo Delete Actors
+[2019.10.29-20.10.08:522][293]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.08:522][293]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-20.10.08:722][305]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.08:722][305]LogEditorTransaction: Undo Delete Actors
+[2019.10.29-20.10.08:936][311]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.08:936][311]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-20.10.09:137][323]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.09:137][323]LogEditorTransaction: Undo Delete Actors
+[2019.10.29-20.10.12:850][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_82)
+[2019.10.29-20.10.20:108][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_59)
+[2019.10.29-20.10.20:948][ 13]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_58)
+[2019.10.29-20.10.21:643][ 52]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_57)
+[2019.10.29-20.10.25:537][280]Cmd: TRANSACTION UNDO
+[2019.10.29-20.10.25:537][280]LogEditorTransaction: Undo Move Actors
+[2019.10.29-20.11.00:255][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_156)
+[2019.10.29-20.11.09:016][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_82)
+[2019.10.29-20.11.44:639][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1541)
+[2019.10.29-20.11.45:561][ 43]Cmd: DELETE
+[2019.10.29-20.11.45:562][ 43]Cmd: ACTOR DELETE
+[2019.10.29-20.11.45:597][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:597][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:597][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:597][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:597][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:597][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:598][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:598][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:598][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:598][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:598][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:598][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:598][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:598][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:598][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:599][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.11.45:624][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.10.29-20.11.45:624][ 43]LogEditorActor: Deleted 16 Actors (0.062 secs)
+[2019.10.29-20.11.53:370][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_6)
+[2019.10.29-20.12.04:795][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_164)
+[2019.10.29-20.12.09:136][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_163)
+[2019.10.29-20.12.10:025][478]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_57)
+[2019.10.29-20.12.10:632][512]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_58)
+[2019.10.29-20.12.11:205][544]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_59)
+[2019.10.29-20.12.12:011][590]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_60)
+[2019.10.29-20.13.56:544][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1525)
+[2019.10.29-20.13.58:585][960]Cmd: DELETE
+[2019.10.29-20.13.58:585][960]Cmd: ACTOR DELETE
+[2019.10.29-20.13.58:622][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:623][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:623][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:623][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:623][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:623][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:623][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:623][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:623][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:624][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:624][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:624][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:624][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:624][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:624][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:625][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.13.58:647][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.29-20.13.58:648][960]LogEditorActor: Deleted 16 Actors (0.063 secs)
+[2019.10.29-20.13.59:746][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1505)
+[2019.10.29-20.14.00:587][ 74]Cmd: DELETE
+[2019.10.29-20.14.00:587][ 74]Cmd: ACTOR DELETE
+[2019.10.29-20.14.00:655][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:655][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:656][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:656][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:656][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:656][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:657][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:657][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:657][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:657][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:657][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:658][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:658][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:658][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:658][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:659][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.00:695][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.29-20.14.00:695][ 74]LogEditorActor: Deleted 16 Actors (0.107 secs)
+[2019.10.29-20.14.01:996][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube600)
+[2019.10.29-20.14.08:112][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_168)
+[2019.10.29-20.14.13:929][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1493)
+[2019.10.29-20.14.14:862][905]Cmd: DELETE
+[2019.10.29-20.14.14:862][905]Cmd: ACTOR DELETE
+[2019.10.29-20.14.14:899][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:899][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:899][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:899][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:899][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:900][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:900][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:900][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:900][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:900][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:900][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:900][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:900][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:900][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:901][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:901][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.14.14:924][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.29-20.14.14:924][905]LogEditorActor: Deleted 16 Actors (0.061 secs)
+[2019.10.29-20.14.15:812][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_168)
+[2019.10.29-20.14.22:526][358]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_167)
+[2019.10.29-20.14.23:123][391]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_166)
+[2019.10.29-20.14.23:820][430]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_165)
+[2019.10.29-20.14.26:316][577]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_169)
+[2019.10.29-20.15.08:514][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1476)
+[2019.10.29-20.15.09:563][148]Cmd: DELETE
+[2019.10.29-20.15.09:565][148]Cmd: ACTOR DELETE
+[2019.10.29-20.15.09:605][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:605][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:606][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:606][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:606][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:606][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:606][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:606][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:606][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:607][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:607][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:607][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:607][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:607][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:607][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:608][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.09:632][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.29-20.15.09:633][148]LogEditorActor: Deleted 16 Actors (0.069 secs)
+[2019.10.29-20.15.13:942][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1461)
+[2019.10.29-20.15.20:074][755]Cmd: DELETE
+[2019.10.29-20.15.20:074][755]Cmd: ACTOR DELETE
+[2019.10.29-20.15.20:109][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:110][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:110][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:110][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:110][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:110][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:110][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:110][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:110][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:111][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:111][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:111][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:111][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:111][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:111][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:112][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.15.20:134][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.29-20.15.20:135][755]LogEditorActor: Deleted 16 Actors (0.061 secs)
+[2019.10.29-20.15.20:995][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_173)
+[2019.10.29-20.15.42:549][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_7)
+[2019.10.29-20.16.04:655][403]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.29-20.16.15:919][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_173)
+[2019.10.29-20.16.21:005][361]Cmd: TRANSACTION UNDO
+[2019.10.29-20.16.21:005][361]LogEditorTransaction: Undo Move Actors
+[2019.10.29-20.16.40:568][520]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_173)
+[2019.10.29-20.19.04:330][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.19.04:369][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.29-20.19.04:370][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.29-20.19.06:590][130]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_Auto089A018AB44EED00DF3F4B0BCE9709074.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto0.umap'
+[2019.10.29-20.19.06:594][130]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 2.251
+[2019.10.29-20.19.06:594][130]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.251
+[2019.10.29-20.23.59:295][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.24.03:307][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_156)
+[2019.10.29-20.24.04:090][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_161)
+[2019.10.29-20.24.04:837][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_163)
+[2019.10.29-20.24.05:370][ 36]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_57)
+[2019.10.29-20.24.05:867][ 64]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_58)
+[2019.10.29-20.24.07:483][159]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_59)
+[2019.10.29-20.24.09:500][278]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_60)
+[2019.10.29-20.24.10:052][309]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_61)
+[2019.10.29-20.24.10:588][339]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_62)
+[2019.10.29-20.24.11:225][375]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_63)
+[2019.10.29-20.24.12:057][423]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_64)
+[2019.10.29-20.24.13:459][505]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_65)
+[2019.10.29-20.24.25:953][248]Cmd: TRANSACTION UNDO
+[2019.10.29-20.24.25:953][248]LogEditorTransaction: Undo Move Actors
+[2019.10.29-20.25.44:669][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_178)
+[2019.10.29-20.25.56:829][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube603)
+[2019.10.29-20.25.57:913][733]Cmd: DELETE
+[2019.10.29-20.25.57:913][733]Cmd: ACTOR DELETE
+[2019.10.29-20.25.57:950][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:951][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:951][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:951][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:951][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:951][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:951][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:951][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:952][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:952][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:952][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:952][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:952][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:952][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:952][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:953][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.57:981][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.10.29-20.25.57:981][733]LogEditorActor: Deleted 16 Actors (0.069 secs)
+[2019.10.29-20.25.58:433][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube585)
+[2019.10.29-20.25.58:671][772]Cmd: DELETE
+[2019.10.29-20.25.58:671][772]Cmd: ACTOR DELETE
+[2019.10.29-20.25.58:709][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:709][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:709][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:709][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:709][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:709][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:710][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:710][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:710][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:710][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:710][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:710][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:710][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:710][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:710][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:711][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.58:735][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.29-20.25.58:736][772]LogEditorActor: Deleted 16 Actors (0.064 secs)
+[2019.10.29-20.25.59:253][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube570)
+[2019.10.29-20.25.59:492][815]Cmd: DELETE
+[2019.10.29-20.25.59:492][815]Cmd: ACTOR DELETE
+[2019.10.29-20.25.59:531][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:531][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:532][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:532][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:532][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:532][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:532][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:532][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:532][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:532][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:533][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:533][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:533][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:533][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:533][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:534][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.25.59:558][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.29-20.25.59:558][815]LogEditorActor: Deleted 16 Actors (0.066 secs)
+[2019.10.29-20.26.00:093][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube546)
+[2019.10.29-20.26.00:299][857]Cmd: DELETE
+[2019.10.29-20.26.00:299][857]Cmd: ACTOR DELETE
+[2019.10.29-20.26.00:336][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:336][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:337][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:337][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:337][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:337][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:337][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:337][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:337][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:338][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:338][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:338][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:338][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:338][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:338][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:339][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.00:364][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.29-20.26.00:364][857]LogEditorActor: Deleted 16 Actors (0.065 secs)
+[2019.10.29-20.26.00:908][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube532)
+[2019.10.29-20.26.01:081][898]Cmd: DELETE
+[2019.10.29-20.26.01:081][898]Cmd: ACTOR DELETE
+[2019.10.29-20.26.01:118][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:118][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:118][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:118][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:119][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:119][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:119][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:119][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:119][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:119][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:119][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:119][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:120][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:120][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:120][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:121][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:146][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.29-20.26.01:147][898]LogEditorActor: Deleted 16 Actors (0.065 secs)
+[2019.10.29-20.26.01:630][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube525)
+[2019.10.29-20.26.01:869][939]Cmd: DELETE
+[2019.10.29-20.26.01:869][939]Cmd: ACTOR DELETE
+[2019.10.29-20.26.01:904][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:904][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:905][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:905][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:905][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:905][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:905][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:905][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:905][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:905][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:906][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:906][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:906][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:906][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:906][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:907][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.01:932][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.10.29-20.26.01:932][939]LogEditorActor: Deleted 16 Actors (0.064 secs)
+[2019.10.29-20.26.02:666][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube1444)
+[2019.10.29-20.26.02:907][995]Cmd: DELETE
+[2019.10.29-20.26.02:907][995]Cmd: ACTOR DELETE
+[2019.10.29-20.26.02:943][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:943][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:944][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:944][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:944][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:944][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:944][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:944][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:944][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:944][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:945][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:945][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:945][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:945][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:945][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:946][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-20.26.02:970][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.29-20.26.02:970][995]LogEditorActor: Deleted 16 Actors (0.063 secs)
+[2019.10.29-20.27.25:748][927]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.10.29-20.27.32:380][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_175)
+[2019.10.29-20.27.35:793][524]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_173)
+[2019.10.29-20.27.36:832][584]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_176)
+[2019.10.29-20.27.37:622][629]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_177)
+[2019.10.29-20.27.49:558][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_8)
+[2019.10.29-20.28.00:255][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_192)
+[2019.10.29-20.28.02:616][108]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_191)
+[2019.10.29-20.28.03:311][147]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_190)
+[2019.10.29-20.28.04:021][187]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MSH_Wall_189)
+[2019.10.29-20.28.19:512][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_177)
+[2019.10.29-20.28.25:186][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.28.31:818][831]LogActorFactory: Actor Factory created MSH_DoorFrame_01
+[2019.10.29-20.28.34:009][962]LogActorFactory: Actor Factory created MSH_DoorFrame_01
+[2019.10.29-20.28.45:558][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_01)
+[2019.10.29-20.28.52:537][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_2)
+[2019.10.29-20.28.56:736][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.29.08:341][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_2)
+[2019.10.29-20.29.39:160][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.29.39:218][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.10.29-20.29.39:219][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.29-20.29.41:508][853]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_Auto1E2DC2DAE44CAAE3C070C2A929ED59886.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto1.umap'
+[2019.10.29-20.29.41:513][853]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 2.324
+[2019.10.29-20.29.41:513][853]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.324
+[2019.10.29-20.29.51:689][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_8)
+[2019.10.29-20.30.16:250][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_DoorFrame_2)
+[2019.10.29-20.30.30:050][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Column_10)
+[2019.10.29-20.30.37:516][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.30.37:826][202]LogActorFactory: Actor Factory created MSH_Door_01
+[2019.10.29-20.30.39:447][298]LogActorFactory: Actor Factory created MSH_Door_01
+[2019.10.29-20.30.41:366][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.30.45:696][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Door_2)
+[2019.10.29-20.30.59:074][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.30.59:174][476]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-20.30.59:190][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-20.30.59:190][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-20.30.59:190][476]PIE: New page: PIE session: NewMap (Oct 29, 2019, 10:30:59 AM)
+[2019.10.29-20.30.59:190][476]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-20.30.59:326][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135027s)
+[2019.10.29-20.30.59:326][476]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-20.30.59:326][476]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.10.29-20.30.59:327][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.136115s)
+[2019.10.29-20.30.59:356][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.29-20.30.59:364][476]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-20.30.59:388][476]LogInit: FAudioDevice initialized.
+[2019.10.29-20.30.59:421][476]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-20.30.59:458][476]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.29-15.30.59
+[2019.10.29-20.30.59:459][476]LogWorld: Bringing up level for play took: 0.037729
+[2019.10.29-20.30.59:475][476]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap 0.976
+[2019.10.29-20.30.59:476][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-20.31.18:382][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-20.31.18:383][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-20.31.18:428][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-20.31.18:429][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-20.31.18:497][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-20.31.18:508][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.10.29-20.31.18:532][608]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.29-20.31.26:519][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.31.26:616][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-20.31.26:646][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.29-20.31.28:843][ 92]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap6379C1814F48E4BD779902B941EE322E.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
+[2019.10.29-20.31.28:880][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.29-20.31.29:688][ 92]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltDataBBDF15E34D36BED9DF1DD48DD6B1B1C1.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
+[2019.10.29-20.35.36:233][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Commode2)
+[2019.10.29-20.35.42:193][230]Cmd: TRANSACTION UNDO
+[2019.10.29-20.35.42:193][230]LogEditorTransaction: Undo Move Actors
+[2019.10.29-20.36.38:095][566]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight25)
+[2019.10.29-20.36.45:962][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_24)
+[2019.10.29-20.36.46:832][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_24)
+[2019.10.29-20.36.47:590][129]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight26)
+[2019.10.29-20.37.11:282][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_24)
+[2019.10.29-20.37.12:925][644]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight26)
+[2019.10.29-20.37.38:598][180]Cmd: TRANSACTION UNDO
+[2019.10.29-20.37.38:598][180]LogEditorTransaction: Undo Move Actors
+[2019.10.29-20.37.39:166][214]Cmd: TRANSACTION UNDO
+[2019.10.29-20.37.39:167][214]LogEditorTransaction: Undo Move Actors
+[2019.10.29-20.37.39:616][241]Cmd: TRANSACTION UNDO
+[2019.10.29-20.37.39:616][241]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-20.37.40:672][301]Cmd: TRANSACTION UNDO
+[2019.10.29-20.37.40:672][301]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-20.37.55:839][200]Cmd: TRANSACTION UNDO
+[2019.10.29-20.37.55:839][200]LogEditorTransaction: Undo Move Actors
+[2019.10.29-20.38.54:434][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Wall_47)
+[2019.10.29-20.39.00:612][ 71]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight24)
+[2019.10.29-20.39.02:112][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.39.06:011][391]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight26)
+[2019.10.29-20.39.08:214][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.39.11:582][723]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight24)
+[2019.10.29-20.39.13:185][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.39.17:084][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_16)
+[2019.10.29-20.39.18:428][129]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight24)
+[2019.10.29-20.39.24:658][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_24)
+[2019.10.29-20.39.25:737][554]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight26)
+[2019.10.29-20.39.44:111][635]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight21)
+[2019.10.29-20.39.47:097][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.39.53:130][172]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight17)
+[2019.10.29-20.40.01:655][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_19)
+[2019.10.29-20.40.03:062][762]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight17)
+[2019.10.29-20.40.28:876][304]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight17)
+[2019.10.29-20.40.31:395][453]Cmd: DELETE
+[2019.10.29-20.40.31:395][453]Cmd: ACTOR DELETE
+[2019.10.29-20.40.31:428][453]LogEditorActor: Deleted Actor: PointLight
+[2019.10.29-20.40.31:460][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.29-20.40.31:460][453]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2019.10.29-20.40.44:537][237]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight23)
+[2019.10.29-20.40.45:471][291]Cmd: DELETE
+[2019.10.29-20.40.45:471][291]Cmd: ACTOR DELETE
+[2019.10.29-20.40.45:503][291]LogEditorActor: Deleted Actor: PointLight
+[2019.10.29-20.40.45:529][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.29-20.40.45:530][291]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.10.29-20.40.46:529][351]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight25)
+[2019.10.29-20.40.46:931][373]Cmd: DELETE
+[2019.10.29-20.40.46:931][373]Cmd: ACTOR DELETE
+[2019.10.29-20.40.46:964][373]LogEditorActor: Deleted Actor: PointLight
+[2019.10.29-20.40.46:989][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.29-20.40.46:990][373]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.10.29-20.40.52:279][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MSH_Deco_Sconce_24)
+[2019.10.29-20.40.53:255][746]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight26)
+[2019.10.29-20.41.26:752][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.41.26:790][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.29-20.41.26:792][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.29-20.41.29:127][750]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_Auto28AFE03BE49A04219BCECE9AB42453660.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto2.umap'
+[2019.10.29-20.41.29:132][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 2.367
+[2019.10.29-20.41.29:132][750]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.367
+[2019.10.29-20.51.29:304][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.51.29:342][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.29-20.51.29:343][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.29-20.51.31:557][750]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_Auto3F315261345B2532E72BEE596B3D7D0EF.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/Autosaves/Game/Map/NewMap_Auto3.umap'
+[2019.10.29-20.51.31:561][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/NewMap' took 2.245
+[2019.10.29-20.51.31:561][750]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.245
+[2019.10.29-21.07.05:227][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-21.07.05:343][222]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-21.07.05:360][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-21.07.05:360][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-21.07.05:360][222]PIE: New page: PIE session: NewMap (Oct 29, 2019, 11:07:05 AM)
+[2019.10.29-21.07.05:360][222]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2019.10.29-21.07.05:488][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127153s)
+[2019.10.29-21.07.05:489][222]LogAIModule: Creating AISystem for world NewMap
+[2019.10.29-21.07.05:489][222]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2019.10.29-21.07.05:489][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.128632s)
+[2019.10.29-21.07.05:518][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.10.29-21.07.05:526][222]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-21.07.05:549][222]LogInit: FAudioDevice initialized.
+[2019.10.29-21.07.05:577][222]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.29-21.07.05:615][222]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.10.29-16.07.05
+[2019.10.29-21.07.05:616][222]LogWorld: Bringing up level for play took: 0.037895
+[2019.10.29-21.07.05:632][222]PIE: Play in editor start time for /Game/Map/UEDPIE_0_NewMap 1.132
+[2019.10.29-21.07.05:632][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-21.07.15:998][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-21.07.15:999][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-21.07.16:037][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-21.07.16:037][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Map/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Map/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.10.29-21.07.16:076][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-21.07.16:086][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.29-21.07.16:105][841]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.29-21.07.17:873][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-21.07.17:968][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-21.07.17:999][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.29-21.07.20:052][952]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap74D82DEF41C141B048BFB9A1EC432D95.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap.umap'
+[2019.10.29-21.07.20:084][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/NewMap_BuiltData" FILE="../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset" SILENT=true
+[2019.10.29-21.07.20:861][952]LogSavePackage: Moving '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Saved/NewMap_BuiltDataF3C23F4A481EFE2C976BAB8FD40955A6.tmp' to '../../../../../../Users/David Chan/Desktop/Test_UE4/Test/Content/Map/NewMap_BuiltData.uasset'
